@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shams</h1>
-<h3 align="center">A skilled software engineer living for the thrill of bringing new ideas to life.</h3>
+<h3 align="center">A skilled designer and software engineer living for the thrill of bringing new ideas to life.</h3>
 
 <p align="left">
 </p>
