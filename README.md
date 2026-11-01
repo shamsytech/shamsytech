@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Shams</h1>
-<h3 align="center">A skilled software and systems engineer living for the thrill of bringing new ideas to life.</h3>
+<h3 align="center">A skilled software and systems engineer living for the thrill of bringing new ideas to life ✨</h3>
 
 #### Currently working on:
 - writing a projects section and drafting a technical self-hosting guide for [my blog](https://freesouls.dev)
